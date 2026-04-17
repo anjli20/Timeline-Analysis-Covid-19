@@ -7,7 +7,6 @@ countries, and understand the relationships between key metrics such as total ca
 
 ##  Dataset
 
-# Timeline-Analysis-Covid-19
 Data Set Link- https://bit.ly/30d2gdi
 
 - **Source:** `owid-covid-data.csv` (Our World in Data)
